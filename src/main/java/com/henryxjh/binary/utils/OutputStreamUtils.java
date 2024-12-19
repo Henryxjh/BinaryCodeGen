@@ -1,4 +1,4 @@
-package com.henryxjh.utils;
+package com.henryxjh.binary.utils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

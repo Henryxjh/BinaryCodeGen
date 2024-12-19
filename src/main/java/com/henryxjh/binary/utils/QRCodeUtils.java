@@ -1,4 +1,4 @@
-package com.henryxjh.utils;
+package com.henryxjh.binary.utils;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;

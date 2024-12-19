@@ -1,4 +1,4 @@
-package com.henryxjh;
+package com.henryxjh.binary;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -8,8 +8,8 @@ import org.kohsuke.args4j.CmdLineException;
 import org.kohsuke.args4j.CmdLineParser;
 import org.kohsuke.args4j.Option;
 
-import com.henryxjh.utils.OutputStreamUtils;
-import com.henryxjh.utils.QRCodeUtils;
+import com.henryxjh.binary.utils.OutputStreamUtils;
+import com.henryxjh.binary.utils.QRCodeUtils;
 
 public class Main {
     /** 前景色白色，0x000000 */
